@@ -1,0 +1,15 @@
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife.deps.json
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife.runtimeconfig.json
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife.dll
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/bin/Debug/net7.0/GameOfLife.pdb
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.csproj.AssemblyReference.cache
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.AssemblyInfoInputs.cache
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.AssemblyInfo.cs
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.dll
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/refint/GameOfLife.dll
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.pdb
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/GameOfLife.genruntimeconfig.cache
+/Users/idrisulu/Desktop/GameOfLife/GameOfLife/obj/Debug/net7.0/ref/GameOfLife.dll
